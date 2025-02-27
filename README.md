@@ -14,7 +14,7 @@ Outside of work, I enjoy playing badminton 🏸 and chess ♟️. Feel free to r
 
 <div>
     <a href="mailto:pkamburu1@gmail.com"><img src="https://img.shields.io/badge/-PKAMBURU1@GMAIL.COM-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-    <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-My%20Website-000000?&style=for-the-badge&logo=Google%20Chrome&logoColor=white" /></a>
+    <a href="https://pasan04.github.io/pasan04/"><img src="https://img.shields.io/badge/-My%20Website-000000?&style=for-the-badge&logo=Google%20Chrome&logoColor=white" /></a>
 </div>
 <hr/>
 
